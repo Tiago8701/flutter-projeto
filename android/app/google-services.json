@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "136407293489",
+    "firebase_url": "https://aula01-firebase-f4719-default-rtdb.firebaseio.com",
+    "project_id": "aula01-firebase-f4719",
+    "storage_bucket": "aula01-firebase-f4719.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136407293489:android:b9158348bcee8ac12a7f10",
+        "android_client_info": {
+          "package_name": "com.example.atividade4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA71ULZ6QdYKTri6B0aKqU5KTAT94FTmqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
